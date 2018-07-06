@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* July 6, 2018 **»** [(转)ZooKeeper典型应用场景一览](https://zhuanlan.zhihu.com/p/21625519)
 * July 5, 2018 **»** [(转)分布式学习(1) ---- 初识Zookeeper](https://zhuanlan.zhihu.com/p/24996631)
 * June 5, 2018 **»** [(转)基于 Token 的身份验证](https://ninghao.net/blog/2834)
 * May 22, 2018 **»** [(转)python数据结构之链表（一）](https://www.cnblogs.com/king-ding/p/pythonchaintable.html)
