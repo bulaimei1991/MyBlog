@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* July 12, 2018 **»** [数据库原理分析（强烈推荐）](https://blog.csdn.net/ptsx0607/article/details/68941750)
 * July 10, 2018 **»** [(转)加盐密码哈希：如何正确使用](http://blog.jobbole.com/61872/)
 * July 6, 2018 **»** [(转)ZooKeeper典型应用场景一览](https://zhuanlan.zhihu.com/p/21625519)
 * July 5, 2018 **»** [(转)分布式学习(1) ---- 初识Zookeeper](https://zhuanlan.zhihu.com/p/24996631)
