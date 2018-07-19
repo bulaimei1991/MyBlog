@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* July 19, 2018 **»** [(转)Linux 内核剖析](https://www.ibm.com/developerworks/cn/linux/l-linux-kernel/)
 * July 18, 2018 **»** [(转)两程序员玩“锁”，一人抢救无效身亡](https://zhuanlan.zhihu.com/p/34510121)
 * July 12, 2018 **»** [(转)数据库原理分析（强烈推荐）](https://blog.csdn.net/ptsx0607/article/details/68941750)
 * July 10, 2018 **»** [(转)加盐密码哈希：如何正确使用](http://blog.jobbole.com/61872/)
