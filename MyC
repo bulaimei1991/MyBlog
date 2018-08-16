@@ -1,0 +1,89 @@
+//  main.c
+//  CandPointers
+//
+//  Created by /Users/zhengyue/Documents/Project/CandPointers/CandPointers/main.cZhengYue on 2018/8/15.
+//  Copyright © 2018年 ZhengYue. All rights reserved.
+//
+//  这个程序实现从输入的字符串中筛选出字符再打印出来
+//  首先输入想输出的字符
+//  例：输入abcdefghigk
+//     0 3  7 9 -1
+//     及想输出的字符为abcdghi
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define MAX_COLS 20                /* 所能处理的最大区间数的2倍 */
+#define MAX_INPUT 1000             /* 每个输入行的最大长度 */
+
+int read_colume_numbers(int colums[], int max);     /*获取想要输出的所有字符串区间*/
+void rearrange(char *output, char const *input,
+               int n_columns, int const column[] );    /*输出筛选后的字符*/
+
+int main(void)
+{
+    int n_columns;           /*n_colums/2 为想输出的字符串区间个数*/
+    int columns[MAX_COLS];   /*想输出的字符串的区间*/
+    char input[MAX_INPUT];   /*输入字符串*/
+    char output[MAX_INPUT];  /*输出字符串*/
+    
+    //读取字符串筛选区间
+    n_columns=read_colume_numbers(columns, MAX_COLS);
+    
+    //获取，处理输入行，打印输出行
+
+    while( gets(input)!= NULL)
+    {
+        printf("Original inpit: %s\n", input);
+        rearrange(output, input, n_columns, columns);
+        printf("Rearrange line: %s\n", output);
+    }
+
+    return EXIT_SUCCESS;
+}
+
+/*获取想要输出的所有字符串区间*/
+int read_colume_numbers( int columns[], int max)
+{
+    int num = 0;   /*想要获取的字符串区间下标*/
+    int ch;      /**/
+    //获取输入的字符串区间
+    while ((num<max && scanf("%d", &columns[num]) == 1) && columns[num] > 0)
+        num=num + 1;
+    
+    //区间必须为完整区间不能出现单数
+    if (num%2 != 0){
+        puts("the colume number is not paired!\n");
+        exit(EXIT_FAILURE);
+    }
+    
+    //丢弃该行中包含最后一个数字的那部分
+    while((ch=getchar()) != EOF && ch != '\n')
+        ;
+    
+   return num;
+}
+
+/*输出筛选后的字符*/
+void rearrange(char *output, char const *input,
+               int n_columns, int const column[] ){
+    int col;                    /*column数组下标*/
+    int output_col = 0;         /*输入列计数器*/
+    int len;
+    len = strlen(input);    /*输入行的长度*/
+    
+    for (col = 0; col < n_columns; col += 2) {
+        int nchars = column[col + 1] - column[col] + 1; /*每一个区间的长度*/
+        
+        if (column[col] > len || output_col >= MAX_INPUT - 1)
+            break;
+        
+        if (output_col + nchars >= MAX_INPUT - 1)
+            nchars = MAX_INPUT - 1 - output_col;
+        
+        strncpy(output + output_col, input + column[col], nchars);
+        output_col += nchars;
+        output[output_col] = '\0';
+    }
+}
