@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* August 28, 2018 **»** [(转)DGit原理简介](https://www.cnblogs.com/yelbosh/p/7471979.html)
 * July 25, 2018 **»** [(转)Docker Hello World](http://www.runoob.com/docker/docker-hello-world.html)
 * July 19, 2018 **»** [(转)Linux 内核剖析](https://www.ibm.com/developerworks/cn/linux/l-linux-kernel/)
 * July 18, 2018 **»** [(转)两程序员玩“锁”，一人抢救无效身亡](https://zhuanlan.zhihu.com/p/34510121)
