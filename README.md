@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* September 4, 2018 **»** [(转)浅析Linux初始化 init 系统](https://www.cnblogs.com/fah936861121/category/954911.html)
 * August 28, 2018 **»** [(转)Git原理简介](https://www.cnblogs.com/yelbosh/p/7471979.html)
 * July 25, 2018 **»** [(转)Docker Hello World](http://www.runoob.com/docker/docker-hello-world.html)
 * July 19, 2018 **»** [(转)Linux 内核剖析](https://www.ibm.com/developerworks/cn/linux/l-linux-kernel/)
