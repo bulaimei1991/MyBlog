@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* September 7, 2018 **»** [(转)gitLab 全局hooks和custom_hooks，以及服务器端自动更新和备份](http://m635674608.iteye.com/blog/2401231)
 * September 4, 2018 **»** [(转)浅析Linux初始化 init 系统](https://www.cnblogs.com/fah936861121/category/954911.html)
 * August 28, 2018 **»** [(转)Git原理简介](https://www.cnblogs.com/yelbosh/p/7471979.html)
 * July 25, 2018 **»** [(转)Docker Hello World](http://www.runoob.com/docker/docker-hello-world.html)
