@@ -1,6 +1,6 @@
 **码梦为生，笔耕不辍。**
 
-* September 30, 2018 **»** [(转)用户态和内核态的区别](https://blog.csdn.net/gyh_420/article/details/77320069)
+* September 30, 2018 **»** [(转)Linux探秘之用户态与内核态](https://www.cnblogs.com/bakari/p/5520860.html)
 * September 28, 2018 **»** [(转)KVM详解](https://blog.csdn.net/bbwangj/article/details/80465320)
 * September 26, 2018 **»** [(转)知乎-卷积神经网络原理](https://www.zhihu.com/question/39022858)
 * September 7, 2018 **»** [(转)gitLab 全局hooks和custom_hooks，以及服务器端自动更新和备份](http://m635674608.iteye.com/blog/2401231)
