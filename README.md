@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* October 15, 2018 **»** [(转)数据结构中各种树](http://blog.jobbole.com/111680/)
 * September 30, 2018 **»** [(转)Linux探秘之用户态与内核态](https://www.cnblogs.com/bakari/p/5520860.html)
 * September 28, 2018 **»** [(转)KVM详解](https://blog.csdn.net/bbwangj/article/details/80465320)
 * September 26, 2018 **»** [(转)知乎-卷积神经网络原理](https://www.zhihu.com/question/39022858)
