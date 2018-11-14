@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* No0vember 14, 2018 **»** [(转)Makefile 使用总结](https://www.cnblogs.com/wang_yb/p/3990952.html)
 * October 26, 2018 **»** [(转)深入理解 GIL：如何写出高性能及线程安全的 Python 代码](http://python.jobbole.com/87743/)
 * October 15, 2018 **»** [(转)数据结构中各种树](http://blog.jobbole.com/111680/)
 * September 30, 2018 **»** [(转)Linux探秘之用户态与内核态](https://www.cnblogs.com/bakari/p/5520860.html)
