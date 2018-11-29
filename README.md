@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* No0vember 29, 2018 **»** [(转)Gradle学习系列之一——Gradle快速入门](https://www.cnblogs.com/CloudTeng/p/3417762.html)
 * No0vember 29, 2018 **»** [(转)Android基础知识——Android SDK Manager详解](https://blog.csdn.net/u011026779/article/details/53178602)
 * No0vember 23, 2018 **»** [(转)十分钟理解Gradle](https://www.cnblogs.com/Bonker/p/5619458.html)
 * No0vember 14, 2018 **»** [(转)Makefile 使用总结](https://www.cnblogs.com/wang_yb/p/3990952.html)
