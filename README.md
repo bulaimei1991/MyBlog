@@ -1,5 +1,6 @@
 **码梦为生，笔耕不辍。**
 
+* January 22, 2019 **»** [(转)理解Cookie和Session机制](https://www.cnblogs.com/andy-zhou/p/5360107.html)
 * December 18, 2018 **»** [(转)GET和POST两种基本请求方法的区别](http://www.cnblogs.com/logsharing/p/8448446.html)
 * December 14, 2018 **»** [(转)深刻理解Python中的元类(metaclass)](http://blog.jobbole.com/21351/)
 * No0vember 29, 2018 **»** [(转)Gradle学习系列之一——Gradle快速入门](https://www.cnblogs.com/CloudTeng/p/3417762.html)
